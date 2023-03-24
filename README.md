@@ -24,3 +24,6 @@
 
 <h2>Contact Information ✉️</h2>
   <p>If you have any questions or comments about this project, please contact the developer at elderfavsto@gmail.com or the GitHub profile <a     href="https://github.com/ElderFausto">@ElderFausto</a>.</p>
+
+<h2>Deploy</h2>
+https://project-weather-app.vercel.app/
