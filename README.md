@@ -5,12 +5,14 @@
   <p>This is a simple weather forecasting project built with pure JavaScript. Its purpose is to display updated weather information for a given location and temperature.</p>
 
 <h2>Used Technologies 🛠️</h2>
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript</li>
-  <li>AccuWeather API</li>
-<ul>
+<div>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>AccuWeather API</li>
+  <ul>
+</div>
 
 <h2>Installation Instructions 📎</h2>
   <p>Clone the repository using the command <code>git clone https://github.com/ElderFausto/WeatherApp</code></p>
